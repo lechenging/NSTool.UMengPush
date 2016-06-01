@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\NSTool.UMengPush-master\UMengTest\bin\Debug\UMengTest.dll
+C:\Users\Administrator\Desktop\NSTool.UMengPush-master\UMengTest\bin\Debug\UMengTest.pdb
+C:\Users\Administrator\Desktop\NSTool.UMengPush-master\UMengTest\bin\Debug\NSTool.UMengPush.dll
+C:\Users\Administrator\Desktop\NSTool.UMengPush-master\UMengTest\bin\Debug\RestSharp.dll
+C:\Users\Administrator\Desktop\NSTool.UMengPush-master\UMengTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\NSTool.UMengPush-master\UMengTest\bin\Debug\NSTool.UMengPush.pdb
+C:\Users\Administrator\Desktop\NSTool.UMengPush-master\UMengTest\bin\Debug\RestSharp.xml
+C:\Users\Administrator\Desktop\NSTool.UMengPush-master\UMengTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\NSTool.UMengPush-master\UMengTest\obj\Debug\UMengTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NSTool.UMengPush-master\UMengTest\obj\Debug\UMengTest.dll
+C:\Users\Administrator\Desktop\NSTool.UMengPush-master\UMengTest\obj\Debug\UMengTest.pdb
+D:\Onself\NSTool.UMengPush\UMengTest\obj\Debug\UMengTest.csprojResolveAssemblyReference.cache
+D:\Onself\NSTool.UMengPush\UMengTest\obj\Debug\UMengTest.dll
+D:\Onself\NSTool.UMengPush\UMengTest\obj\Debug\UMengTest.pdb

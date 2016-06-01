@@ -1,0 +1,11 @@
+D:\projects\partyp\NSTool.UMengPush\bin\Release\NSTool.UMengPush.dll
+D:\projects\partyp\NSTool.UMengPush\bin\Release\NSTool.UMengPush.pdb
+D:\projects\partyp\NSTool.UMengPush\bin\Release\Newtonsoft.Json.dll
+D:\projects\partyp\NSTool.UMengPush\bin\Release\RestSharp.dll
+D:\projects\partyp\NSTool.UMengPush\bin\Release\Newtonsoft.Json.xml
+D:\projects\partyp\NSTool.UMengPush\bin\Release\RestSharp.xml
+D:\projects\partyp\NSTool.UMengPush\obj\Release\NSTool.UMengPush.dll
+D:\projects\partyp\NSTool.UMengPush\obj\Release\NSTool.UMengPush.pdb
+D:\projects\partyp\NSTool.UMengPush\obj\Release\NSTool.UMengPush.csprojResolveAssemblyReference.cache
+D:\projects\partyp\NSTool.UMengPush\bin\Release\NLog.dll
+D:\projects\partyp\NSTool.UMengPush\bin\Release\NLog.xml
