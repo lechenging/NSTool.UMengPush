@@ -107,7 +107,11 @@ namespace PalmCommunity.Utility
 
         private static void callBack(ReturnJsonClass result)
         {
-            ReturnJsonClass a1 = result;
+            if (result.ret.Equals("FAIL"))
+            {
+                //这里可以记录log
+                //logger.Error("推送失败,error_code: " + result.data.error_code);
+            }
         }
 
     }

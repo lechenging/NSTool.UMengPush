@@ -160,6 +160,10 @@ namespace NSTool.UMengPush.Core
 
     public class Policy
     {
+        public Policy()
+        {
+            max_send_num = 100;
+        }
         public string start_time { get; set; }
         public string expire_time { get; set; }
         public int max_send_num { get; set; }
